@@ -11,6 +11,6 @@ I'm a passionate Software Engineering graduate (BS from Western Governors Univer
 * 💡 I'm enthusiastic about contributing to innovative projects and collaborating within a team environment.
 
 ### Let's Connect:
-* 🔗 LinkedIn: https://www.linkedin.com/in/rickevans-dev/
+* 🔗 <a href="https://www.linkedin.com/in/rickevans-dev/" target="_blank">LinkedIn</a> 
   
 Feel free to explore my projects!
