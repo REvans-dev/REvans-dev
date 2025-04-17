@@ -8,7 +8,7 @@ Junior Software Engineer, former Autonomous Vehicle Operations Manager (inspired
 
 * 🌍  I'm based in Phoenix
 * ✉️  You can contact me at [rickevansdev@gmail.com](mailto:rickevansdev@gmail.com)
-* 🧠  I'm learning Python
+* 🧠  I'm learning Python and practicing Leetcode
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
